@@ -1,4 +1,4 @@
-module github.com/n3integration/terraform-provider-godaddy
+module github.com/grigoriy0/terraform-provider-godaddy
 
 require (
 	github.com/hashicorp/terraform-plugin-docs v0.13.0
